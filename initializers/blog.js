@@ -24,9 +24,14 @@ exports.blog = function(api, next){
 
   	postView: function(userName, title, next){
   		var key = this.buildTitleKey(userName, title);
-  		redis.
+  		redis.hgetall(key, function(error, data){
+  			next(error, data);
+  		});
   	},
-  	postsList: function(userName, next){},
+
+  	postsList: function(userName, next){
+  		var self = this;
+  	},
   	postEdit: function(userName, title, content, next){},
   	postDelete: function(userName, title, next){},
   	//comments
