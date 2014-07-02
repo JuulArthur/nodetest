@@ -1,4 +1,5 @@
 exports.blog = function(api, next){
+	//SKAL BARE LAGE EN KOMMIT, SLETT MEG!
 
   api.blog = {};
 
