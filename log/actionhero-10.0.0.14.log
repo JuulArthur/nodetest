@@ -1,0 +1,56 @@
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-01T20:47:22.043Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-01T20:47:22.084Z"}
+{"level":"info","message":"environment: development","timestamp":"2014-07-01T20:47:22.221Z"}
+{"level":"notice","message":"pid: 7871","timestamp":"2014-07-01T20:47:22.222Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2014-07-01T20:47:22.222Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2014-07-01T20:47:22.225Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2014-07-01T20:47:22.231Z"}
+{"level":"notice","message":"webSockets bound to 0.0.0.0:8080 mounted at undefined","timestamp":"2014-07-01T20:47:22.264Z"}
+{"level":"info","message":"actionhero member 10.0.0.14 has joined the cluster","timestamp":"2014-07-01T20:47:22.640Z"}
+{"level":"notice","message":"server ID: 10.0.0.14","timestamp":"2014-07-01T20:47:22.641Z"}
+{"level":"notice","message":"*** Server Started @ 2014-07-01 22:47:22 ***","timestamp":"2014-07-01T20:47:22.641Z"}
+{"to":"127.0.0.1","action":"{no action}","params":"{}","duration":1,"error":"\"Error: {no action} is not a known action or that is not a valid apiVersion.\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-01T20:56:53.369Z"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to config change ***\r\n\r\n","timestamp":"2014-07-01T20:57:37.502Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2014-07-01T20:57:37.502Z"}
+{"level":"notice","message":"stopping server: web","timestamp":"2014-07-01T20:57:37.503Z"}
+{"level":"notice","message":"stopping server: websocket","timestamp":"2014-07-01T20:57:37.503Z"}
+{"level":"info","message":"actionhero member 10.0.0.14 has left the cluster","timestamp":"2014-07-01T20:57:37.505Z"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2014-07-01T20:57:38.005Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-01T20:57:38.034Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-01T20:57:38.035Z"}
+{"level":"info","message":"environment: development","timestamp":"2014-07-01T20:57:38.044Z"}
+{"level":"notice","message":"pid: 7871","timestamp":"2014-07-01T20:57:38.044Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2014-07-01T20:57:38.044Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2014-07-01T20:57:38.045Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2014-07-01T20:57:38.045Z"}
+{"level":"notice","message":"webSockets bound to 0.0.0.0:8080 mounted at undefined","timestamp":"2014-07-01T20:57:38.046Z"}
+{"level":"info","message":"actionhero member 10.0.0.14 has joined the cluster","timestamp":"2014-07-01T20:57:38.308Z"}
+{"level":"notice","message":"server ID: 10.0.0.14","timestamp":"2014-07-01T20:57:38.311Z"}
+{"level":"notice","message":"*** Server Started @ 2014-07-01 22:57:38 ***","timestamp":"2014-07-01T20:57:38.311Z"}
+{"level":"notice","message":"actionhero restarted","timestamp":"2014-07-01T20:57:38.311Z"}
+{"to":"127.0.0.1","action":"{no action}","params":"{\"action\":\"\"}","duration":0,"error":"\"Error: {no action} is not a known action or that is not a valid apiVersion.\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-01T20:57:41.487Z"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to config change ***\r\n\r\n","timestamp":"2014-07-01T21:00:04.149Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2014-07-01T21:00:04.149Z"}
+{"level":"notice","message":"stopping server: web","timestamp":"2014-07-01T21:00:04.150Z"}
+{"level":"notice","message":"stopping server: websocket","timestamp":"2014-07-01T21:00:04.150Z"}
+{"level":"info","message":"actionhero member 10.0.0.14 has left the cluster","timestamp":"2014-07-01T21:00:04.152Z"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2014-07-01T21:00:04.652Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-01T21:00:04.669Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-01T21:00:04.670Z"}
+{"level":"info","message":"environment: development","timestamp":"2014-07-01T21:00:04.677Z"}
+{"level":"notice","message":"pid: 7871","timestamp":"2014-07-01T21:00:04.677Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2014-07-01T21:00:04.677Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2014-07-01T21:00:04.678Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2014-07-01T21:00:04.678Z"}
+{"level":"notice","message":"webSockets bound to 0.0.0.0:8080 mounted at undefined","timestamp":"2014-07-01T21:00:04.679Z"}
+{"level":"info","message":"actionhero member 10.0.0.14 has joined the cluster","timestamp":"2014-07-01T21:00:04.890Z"}
+{"level":"notice","message":"server ID: 10.0.0.14","timestamp":"2014-07-01T21:00:04.892Z"}
+{"level":"notice","message":"*** Server Started @ 2014-07-01 23:00:04 ***","timestamp":"2014-07-01T21:00:04.892Z"}
+{"level":"notice","message":"actionhero restarted","timestamp":"2014-07-01T21:00:04.892Z"}
+{"to":"127.0.0.1","level":"info","message":"[server: websocket] new connection","timestamp":"2014-07-01T21:02:48.076Z"}
+{"to":"127.0.0.1","level":"info","message":"[server: websocket] connection closed","timestamp":"2014-07-01T21:05:07.151Z"}
+{"to":"127.0.0.1","level":"info","message":"[server: websocket] new connection","timestamp":"2014-07-02T15:03:23.516Z"}
+{"to":"127.0.0.1","level":"info","message":"[server: websocket] connection closed","timestamp":"2014-07-02T15:03:31.140Z"}
+{"to":"127.0.0.1","level":"info","message":"[server: websocket] new connection","timestamp":"2014-07-02T15:03:35.668Z"}
+{"to":"127.0.0.1","level":"info","message":"[server: websocket] connection closed","timestamp":"2014-07-02T15:04:28.991Z"}
+{"to":"127.0.0.1","level":"info","message":"[server: websocket] new connection","timestamp":"2014-07-02T15:04:29.091Z"}
