@@ -1,6 +1,14 @@
 exports.users = function(api, next){
 
-  api.users = {};
+  api.users = {
+  	//constants
+  	userHash: "users",
+  	//methods
+  	add: function(userName, password, next){},
+  	list: function(next){},
+  	authenticate: function(userName, password, next){},
+  	delete: function(userName, password, next){},
+  };
 
   api.users._start = function(api, next){
     next();
